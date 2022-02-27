@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\86182\OneDrive\桌面\pictureProcessing\pictureProcessing\main.cpp(202,7): warning C4101: “r”: 未引用的局部变量
+C:\Users\86182\OneDrive\桌面\pictureProcessing\pictureProcessing\main.cpp(198): warning C4715: “showVolume”: 不是所有的控件路径都返回值
+  pictureProcessing.vcxproj -> C:\Users\86182\OneDrive\桌面\pictureProcessing\x64\Debug\pictureProcessing.exe
